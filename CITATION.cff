@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the official Zenodo DOI once published."
+title: "Polybrutus 49D: Exact 54-Point Euclidean Metric and Forty-Threefold Ideal Graph Mode"
+type: software
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: "0.1.0"
+date-released: 2026-11-21
+license: MIT
+repository-code: https://github.com/Topbrutus/polybrutus-d49
+abstract: "Exact 54-point labelled Euclidean metric conserving all 1378 predecessor pairs, minimum affine rank 49 and separately stipulated dimensionless ideal weighted graph."
