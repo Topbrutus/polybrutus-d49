@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d49
 abstract: "Exact 54-point labelled Euclidean metric conserving all 1378 predecessor pairs, minimum affine rank 49 and separately stipulated dimensionless ideal weighted graph."
+doi: 10.5281/zenodo.24426743
+url: https://doi.org/10.5281/zenodo.24426743
